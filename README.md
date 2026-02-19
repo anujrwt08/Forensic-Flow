@@ -1,4 +1,4 @@
-# ForensiLock Pro (Windows Edition)
+# ForensiLock 
 
 A Python + Tkinter desktop utility that simulates a **digital evidence acquisition workflow**:
 - RAM acquisition (uses `winpmem.exe` if available, otherwise safe simulation mode)
