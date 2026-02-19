@@ -58,6 +58,13 @@ Generated artifacts are stored in `evidence_locker`:
 - `evidence_disk.img`
 - `Final_Report.pdf`
 
+## Demo Video
+
+- Play in browser (raw file):
+	https://raw.githubusercontent.com/anujrwt08/Forensic-Flow/main/project%20demo%20video/project%20demo.mp4
+- Repository file page (may show size warning for large files):
+	https://github.com/anujrwt08/Forensic-Flow/blob/main/project%20demo%20video/project%20demo.mp4
+
 ## Notes
 
 - If `winpmem.exe` is missing, RAM acquisition runs in simulation mode using random bytes.
